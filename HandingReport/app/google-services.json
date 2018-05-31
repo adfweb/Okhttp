@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1005275737671",
+    "firebase_url": "https://registration-9a18d.firebaseio.com",
+    "project_id": "registration-9a18d",
+    "storage_bucket": "registration-9a18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005275737671:android:61d9faf06d12fd14",
+        "android_client_info": {
+          "package_name": "com.example.handingreport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005275737671-khmekc4mkccsi3i7qppho146m7tfl9qn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGG1c6xXZCHhAQeS4OyBdx4HNDXCV_oQU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
